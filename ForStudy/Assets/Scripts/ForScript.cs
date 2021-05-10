@@ -14,6 +14,7 @@ public class ForScript : MonoBehaviour
         //Kadai6();
         //Kadai7();
         //TypeConf();
+        Debug.Log("Githubを確認するためのコードを追加");
     }
 
     void Update()
